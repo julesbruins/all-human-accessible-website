@@ -416,7 +416,7 @@ footer {
 
 section.bottom {
     border-top: var(--border);
-    padding: 4rem 1.5rem;
+    padding: 2.5rem 1.5rem;
 
     a {
         font-family: "archivo";
