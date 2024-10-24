@@ -12,6 +12,10 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
   * [Licentie](#licentie)
 
 ## Beschrijving
+In dit project heb ik me gefocust op het compleet maken van de responsive designs. Ook heb ik een aantal van de WCAG richtlijnen gecheckt en toegepast op het gebied van teogankelijkheid. Verder heb ik een navigatie toegevoegd voor smaller devices. 
+
+<img src=assets/amaclogo.png alt="">
+
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
