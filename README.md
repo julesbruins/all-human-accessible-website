@@ -12,7 +12,7 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
   * [Licentie](#licentie)
 
 ## Beschrijving
-In dit project heb ik me gefocust op het compleet maken van de responsive designs. Ook heb ik een aantal van de WCAG richtlijnen gecheckt en toegepast op het gebied van teogankelijkheid. Verder heb ik een navigatie toegevoegd voor smaller devices. 
+In dit project heb ik me gefocust op het compleet maken van de responsive designs. Ook heb ik een aantal van de WCAG richtlijnen gecheckt en toegepast op het gebied van teogankelijkheid. Verder heb ik een navigatie toegevoegd voor smaller devices. Hetgeen waar ik helaas nog niet aan toegekomen ben is het voorstel om een scroll back up button uit te werken.
 
 Beginnend over de WCAG richtlijnen die ik bekeken heb: 
 * Ik heb gekeken naar de alt attributen. Deze worden voorgelezen wanneer een afbeelding niet laadt of iemand deze niet kan zien door bijvoorbeeld blindheid. Deze heb ik beschrijvende informatie gegeven of leeg gelaten, vaak hadden de plaatjes niet per se een beschrijvende rol. Zo leest een screen reader niet alle onbelangrijke afbeeldingen voor.
@@ -20,8 +20,7 @@ Beginnend over de WCAG richtlijnen die ik bekeken heb:
 * De tab toets heb ik getest en deze loopt door alle linkjes heen.
 * Ook heb ik het kleurcontrast getest. Deze was op AA level helemaaal in orde. Voor AAA niveau was deze een kleine fout bij de blauwe kleur, maar dit zie ik niet als groot probleem.
 
-<img src=assets/color-contrast-bleu.png alt="" height=360px>
-<img src=assets/color-contrast-black.png alt="" height=360px>
+<img src=assets/color-contrast-blue.png alt="" height=360px>
 
 
 
@@ -40,8 +39,8 @@ Er was in het ontwerp alleen een small en large viewport geleverd. Voor het maat
 ### _**bigger viewport**_
 Eigenlijk is de grotere viewport gewoon zoals het ontwerp. Waar nog aan gewerkt moet worden zijn uiteraard de dingen die met javascript moeten gebeuren, zoals de filter buttons, extra items laden etc.
 
-<img src=assets/big-viewport.png alt="" height=360px>
-<img src=assets/big-viewport2.png alt="" height=360px>
+<img src=assets/big-viewport.png alt="" height=250px><img src=assets/big-viewport2.png alt="" height=250px>
+
 
 
 ### _**hamburger menu**_
@@ -53,9 +52,8 @@ Hier zie je nog dat wanneer het hamburger menu geopend wordt op een iets breder 
 <a href="https://julesbruins.github.io/all-human-accessible-website/">link naar de site</a>
 
 ## Kenmerken
-Ik heb voor mijn HTML veel sections gebruikt en deze allemaal een class gegeven. Verder heb ik in de CSS veel genest. Ook staan de media queries echt in het element genest. Verder is er Javascript toegepast op het hamburger menu te laten werken. Hierbij hoort veel verschillende CSS. Een van de belangrijkste is de media querie ... hierbij zie je dat de navigatie tevoorschijn komt op groot scherm en het hamburger-menu verdwijnt. 
+Ik heb voor mijn HTML veel sections gebruikt en deze allemaal een class gegeven. Verder heb ik in de CSS veel genest. Ook staan de media queries echt in het element genest. Verder is er Javascript toegepast op het hamburger menu te laten werken. Hierbij hoort veel verschillende CSS. Een van de belangrijkste is de media querie <a href="https://github.com/julesbruins/all-human-accessible-website/blob/e1b704967bf6aa3976918c748022cd14f43d82b3/styles.css#L582-L603">van de navigatie</a> hierbij zie je dat de navigatie tevoorschijn komt op groot scherm en het hamburger-menu verdwijnt. 
 
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Bronnen
 
