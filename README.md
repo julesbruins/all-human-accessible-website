@@ -14,7 +14,13 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
 ## Beschrijving
 In dit project heb ik me gefocust op het compleet maken van de responsive designs. Ook heb ik een aantal van de WCAG richtlijnen gecheckt en toegepast op het gebied van teogankelijkheid. Verder heb ik een navigatie toegevoegd voor smaller devices. 
 
-<img src=assets/amaclogo.png alt="">
+Hieronder zie je de afbeeldingen van de verschillende viewports.
+<img src=assets/smallest-viewport.png alt="">
+<img src=assets/smaller-viewport(articles).png alt="">
+<img src=assets/smaller-viewport(ham).png alt="">
+
+<img src=assets/ham-menu-animatie.png alt="">
+
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
