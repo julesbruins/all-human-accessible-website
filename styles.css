@@ -136,7 +136,7 @@ li {
 
 
 header {
-    top: -1;
+    top: 0;
     position: sticky;
 
     img {
@@ -272,7 +272,7 @@ section.trending {
         }
 
         img.sizing {
-            max-height: 26rem;
+            height: 26rem;
             width: 100%;
         }
 
@@ -654,6 +654,7 @@ header::before {
     height: 100%;
     background-color: rgba(0, 0, 0, 0);
     left: 0;
+    top: 0;
     transition: background-color 0.4s ease-out;
 }
 
@@ -676,6 +677,10 @@ body:has(header .active) {
     @media (width > 66rem) {
         display: none;
     }
+}
+
+.ham-menu.active {
+    position: sticky;
 }
 
 .ham-menu span {
